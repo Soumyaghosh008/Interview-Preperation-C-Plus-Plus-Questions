@@ -67,7 +67,7 @@ _All programs should take user input, coded uder a class and methods._
 37. Write a program to compute the sum of factorials:  
    S = 1! + 2! + 3! + 4! + ... + n!  
 38. Write a program to compute the sum of the series:  
-   S = frac{1}{2} + frac{2}{3} + frac{3}{4} + frac{4}{5} + ...n]  
+   S = frac{1}{2} + frac{2}{3} + frac{3}{4} + frac{4}{5} + ...n  
 39. Given `M` (100 ≤ M ≤ 10000) and `N` (< 100), find the smallest number greater than `M` whose digits sum to `N`.  
 40. Find the **nearest Twin Prime** to a given number.  
 41. Write a program to convert numbers between bases:  
@@ -80,6 +80,13 @@ _All programs should take user input, coded uder a class and methods._
    - Decimal to Binary
    - Binary to Decimal. 
 42. Write a program to print all combinations of numbers from `1` to a user-input number (2-5).  
-43. Write a program to check if a given year is a Leap Year or not.  
-
+43. Write a program to check if a given year is a Leap Year or not. 
+44. Write a program to reverse a string.
+45. A circle has a center co-ordinate (3,2) and radius is 5 unit. Take a point (h,k) on the co-ordinate system. write a code to check whether the point is on , inside or out of the circle.
+46. Write a code where you create a pre-assigned username and password, but user need to enter that same name & password. If these 2 things are same with each other, print "Logged-In", else print "Try Again".
+47. Write a code to convet upper to lower casee and vise versa.
+48. You have 2 class one is "Parent" and one is "Child". 1st one has a method 'show', which display "Hello World!" & other has 'display', which print "How are you?". Write a code to inherited Parent class in the Child.
+49. Write a code to take input from user of 5 Employess and print it.
+50. Write a code to configure a list and take input int that. Take 2 more integers from the front side and one more from the back side. Now delete 2 elements from the back side. Now print the list.
+51. Configure a stack and take user input of 10 integers. Then show the elements and again take 2 more integers, and remove 3 integers. Now show the integers.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
